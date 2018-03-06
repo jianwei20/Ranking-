@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Ranking/ViewController.swift"
+            timestampString = "539860265.140816"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Ranking.ViewController.myGifImageVeiw.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIImageView&gt;"
+                  moduleName = "Ranking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/willysu/Library/Mobile%20Documents/com~apple~CloudDocs/Desktop/Ranking/Ranking/ViewController.swift"
+                  timestampString = "539502406.86895"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "79">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Ranking.ViewController.myGifImageVeiw.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIImageView&gt;"
+                  moduleName = "Ranking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/willysu/Library/Mobile%20Documents/com~apple~CloudDocs/Desktop/Ranking/Ranking/ViewController.swift"
+                  timestampString = "539502406.8734111"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Ranking.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Ranking.ViewController"
+                  moduleName = "Ranking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/willysu/Library/Mobile%20Documents/com~apple~CloudDocs/Desktop/Ranking/Ranking/ViewController.swift"
+                  timestampString = "539502406.885206"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "77">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Ranking.ViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;Ranking.ViewController&gt;"
+                  moduleName = "Ranking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/willysu/Library/Mobile%20Documents/com~apple~CloudDocs/Desktop/Ranking/Ranking/ViewController.swift"
+                  timestampString = "539502406.906135"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "46">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
