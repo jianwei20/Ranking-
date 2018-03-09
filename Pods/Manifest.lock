@@ -44,6 +44,7 @@ PODS:
     - nanopb/encode (= 0.3.8)
   - nanopb/decode (0.3.8)
   - nanopb/encode (0.3.8)
+  - SlideMenuControllerSwift (4.0.0)
 
 DEPENDENCIES:
   - Bolts
@@ -51,6 +52,7 @@ DEPENDENCIES:
   - FBSDKLoginKit
   - Firebase/Auth
   - Firebase/Core
+  - SlideMenuControllerSwift
 
 SPEC CHECKSUMS:
   Bolts: ac6567323eac61e203f6a9763667d0f711be34c8
@@ -64,7 +66,8 @@ SPEC CHECKSUMS:
   GoogleToolboxForMac: 2501e2ad72a52eb3dfe7bd9aee7dad11b858bd20
   GTMSessionFetcher: 5bb1eae636127de695590f50e7d248483eb891e6
   nanopb: 5601e6bca2dbf1ed831b519092ec110f66982ca3
+  SlideMenuControllerSwift: 021d6318201c53d4d4d3710517d43d6c556c7dd0
 
-PODFILE CHECKSUM: 09b601bc7d37c03c0b71d6c7d56cc73e4a9657b7
+PODFILE CHECKSUM: d6fc407f95534fd4d15bbf5c72fae6e8210e0c03
 
 COCOAPODS: 1.4.0

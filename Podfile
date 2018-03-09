@@ -12,5 +12,6 @@ pod 'Firebase/Auth'
 pod 'Bolts'
 pod 'FBSDKCoreKit'
 pod 'FBSDKLoginKit'
+pod 'SlideMenuControllerSwift'
 
 end

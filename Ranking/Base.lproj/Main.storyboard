@@ -421,7 +421,6 @@
         <image name="12272-1449655777.png" width="1291" height="474"/>
     </resources>
     <inferredMetricsTieBreakers>
-        <segue reference="rLr-Bv-dcn"/>
         <segue reference="N5W-e0-8G6"/>
     </inferredMetricsTieBreakers>
 </document>
